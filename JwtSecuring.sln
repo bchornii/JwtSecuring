@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSecuring", "JwtSecuring\JwtSecuring.csproj", "{BB3693D7-E346-4191-BB49-64743C80C34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3693D7-E346-4191-BB49-64743C80C34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3693D7-E346-4191-BB49-64743C80C34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3693D7-E346-4191-BB49-64743C80C34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3693D7-E346-4191-BB49-64743C80C34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D10C38-A628-46B3-BC0E-EEC1A65F7460}
+	EndGlobalSection
+EndGlobal
